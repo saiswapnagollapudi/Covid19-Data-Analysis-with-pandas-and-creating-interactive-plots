@@ -1,4 +1,4 @@
-# H1 COVID DATA ANALYSIS WITH PANDAS AND CREATING INTERACTIVE PLOTS
+# COVID19 Exploratory Data Analysis with PANDAS and creating interactive plots with plotly
 
 In this project a simple Data Analysis is performed on covid-19 Data.
 
