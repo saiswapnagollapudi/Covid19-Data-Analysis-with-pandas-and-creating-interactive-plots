@@ -6,14 +6,37 @@ In this project a simple Data Analysis is performed on covid-19 Data.
 
 **Data Dictionary**: https://data.world/covid-19-data-resource-hub/covid-19-case-counts/workspace/data-dictionary
 
+** Step 1: Load the libraries and data**
+``` 
+import os
+import numpy as np
+import pandas as pd
+data = pd.read_csv('COVID-19-Cases.csv')
+data.head()
+print(data.shape)
+```
+
+There are 92070 records in the dataset and 13 columns.
+
+** Step 2: Load the libraries and data**
 ``` 
 import os
 import numpy as np
 import pandas as pd
 data = pd.read_csv('COVID-19-Cases.csv')
 ```
-
-
-
-
+** Step 2: Load the libraries and data**
+``` 
+import os
+import numpy as np
+import pandas as pd
+data = pd.read_csv('COVID-19-Cases.csv')
+```
+** Step 2: Load the libraries and data**
+``` 
+import os
+import numpy as np
+import pandas as pd
+data = pd.read_csv('COVID-19-Cases.csv')
+```
 
