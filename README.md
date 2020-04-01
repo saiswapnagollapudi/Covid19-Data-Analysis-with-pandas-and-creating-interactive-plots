@@ -3,6 +3,8 @@
 
 In this project a simple Data Analysis is performed on covid-19 Data.
 
+**View the analysis with plots**: https://nbviewer.jupyter.org/github/swapsha/Covid19-Data-Analysis-with-pandas-and-creating-interactive-plots/blob/99023044f8ea870215dca284f223ac0ead6ca9fd/covid19_analysis.ipynb
+
 **Data Source**: https://data.world/covid-19-data-resource-hub/covid-19-case-counts/workspace/file?filename=COVID-19+Cases.csv
 
 **Data Dictionary**: https://data.world/covid-19-data-resource-hub/covid-19-case-counts/workspace/data-dictionary
