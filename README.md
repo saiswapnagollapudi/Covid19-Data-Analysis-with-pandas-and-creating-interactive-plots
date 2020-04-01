@@ -6,10 +6,10 @@ In this project a simple Data Analysis is performed on covid-19 Data.
 
 **Data Dictionary**: https://data.world/covid-19-data-resource-hub/covid-19-case-counts/workspace/data-dictionary
 
-``` import os
+``` import os ```
 import numpy as np
 import pandas as pd
-data = pd.read_csv('COVID-19-Cases.csv') ```
+data = pd.read_csv('COVID-19-Cases.csv') 
 
 
 
