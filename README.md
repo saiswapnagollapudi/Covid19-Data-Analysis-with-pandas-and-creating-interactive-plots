@@ -908,3 +908,4 @@ fig = px.line(deaths_df, x="Date", y="Cases",color = 'Country_Region',title = 'T
 
 From the above plot notice that death cases in China increased rapidly in feb compared to other regions this is due to the fact that virus first started spreading in china, later with time number of confirmed cases increased slowly as the government in China has taken enough precautions to keep the situation under control. Where as in other parts of the world number of cases drastically started increasing in the second week of March. As of March 30 Italy has highest number of deaths recorded.
 
+To view the plots visit: https://nbviewer.jupyter.org/github/swapsha/Covid19-Data-Analysis-with-pandas-and-creating-interactive-plots/blob/99023044f8ea870215dca284f223ac0ead6ca9fd/covid19_analysis.ipynb
